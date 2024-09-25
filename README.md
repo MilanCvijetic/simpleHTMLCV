@@ -1,3 +1,3 @@
 # simpleHTMLCV
 Learning HTML through building a simple CV
-(Project page)[https://github.com/MilanCvijetic/simpleHTMLCV]
+(Roadmap project url)[https://roadmap.sh/projects/single-page-cv]
